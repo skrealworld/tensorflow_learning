@@ -1,4 +1,6 @@
 #A simple template for linear regression problem 
+# Inspired by Tensorflow tutorial : https://github.com/skrealworld/tensorflow_learning/blob/master/linear_regression.py
+
 """
 import numpy as np
 import tensorflow as tf
